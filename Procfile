@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT timbeepartnersvc_tim_310.wsgi:application
